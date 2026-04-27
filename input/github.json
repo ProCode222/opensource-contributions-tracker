@@ -1,5 +1,5 @@
 {
-  "start_date": "1970-01-01",
+  "start_date": "2026-04-27",
   "contribution_config": {
     "commits": {
       "enabled": true,
@@ -31,7 +31,7 @@
     }
   },
   "users": [
-    "nihaljain"
+    "ProCode222"
   ],
   "project_to_repo_dict": {
     "Apache HBase": [
